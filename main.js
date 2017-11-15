@@ -93,5 +93,5 @@ function get(params) {
 }
 
 console.log('created_at	id\tscreen_name\tuser_id\tfollowers_count\tfriends_count\tstatuses_count');
-var params = "?screen_name="+screen_name+"&count=100&cursor=1545175917791367244";
+var params = "?screen_name="+screen_name+"&count=100&cursor=****************";
 get(params);
